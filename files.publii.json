@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "a3ca5b6f3da4bca9a9d168dc1d0cb7b9"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "809c70e0d7c6c159d49bbfb272cd94bd"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "f1bf1f2db721ce797a449ec369f9ced3"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6963e7b4205d0ee02f5112c8b0f1f7d6"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "cf689fe84225d1f5509cd26c3da475e9"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-1.jfif",
+        "type": "file",
+        "md5": "be3dda3ee9808fd65339a7f0f1200f54"
+    },
+    {
+        "path": "online-quran-classes-bringing-the-holy-quran-to-every-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-bringing-the-holy-quran-to-every-home/index.html",
+        "type": "file",
+        "md5": "bdb4b80a8ab03a036b8e67c8cf784395"
+    },
+    {
+        "path": "online-quran-classes-bringing-the-light-of-the-quran-to-every-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-bringing-the-light-of-the-quran-to-every-home/index.html",
+        "type": "file",
+        "md5": "4abaa3b7d121d0f84a1c1c056807f2a5"
+    },
+    {
+        "path": "online-quran-classes-your-gateway-to-learning-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-your-gateway-to-learning-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "f238e78c88bb3b77fcd4781c6e9d2d5a"
+    },
+    {
+        "path": "online-quran-recitation-connecting-hearts-to-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-recitation-connecting-hearts-to-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "0782a3584d457de4510bb78d0edd2052"
+    },
+    {
+        "path": "online-quran-recitation-learn-the-melody-of-revelation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-recitation-learn-the-melody-of-revelation/index.html",
+        "type": "file",
+        "md5": "b8c0183555e5eaf9bce14aeb2b21fc22"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "098f7a012877c592e2f35e76df558a4e"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "e30fdef344a7b368a036e416ba598409"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "0fc7443dc005d4480586bbda7399b888"
+    }
+]
